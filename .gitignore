@@ -1,0 +1,8 @@
+# python side production
+__pycache__
+# vscode env
+.vscode
+# matlab_code
+Matlab_Mapping
+# venv config
+pyvenv.cfg
